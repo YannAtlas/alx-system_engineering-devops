@@ -1,2 +1,2 @@
 #!/bin/bash
-grrep -i "root" -A 3 /etc/passwd
+grrep -A 3 "root" /etc/passwd
